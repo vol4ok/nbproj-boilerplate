@@ -3,6 +3,7 @@ author: "vol4ok <admin@vol4ok.net>"
 name: ""
 description: ""
 version: "0.0.1"
+main: ""
 repository: 
   url: ""
 engines: 
